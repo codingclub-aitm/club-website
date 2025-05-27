@@ -1,0 +1,15 @@
+{
+  "executive": [
+    { "role": "President", "name": "Mohammed Azaan Peshmam", "duty": "Vision, external relations", "image": "public/images/image 4.JPG" },
+    { "role": "General Secretary", "name": "Nader Ahmed", "duty": "Records, internal comms", "image": "public/images/nader.png" },
+    { "role": "Treasurer", "name": "Mushir ul Haque", "duty": "Budgets & sponsorships", "image": "public/images/mushir.png" },
+    { "role": "Event Manager", "name": "Ahmed Kola", "duty": "Calendar & logistics", "image": "https://images.pexels.com/photos/2128807/pexels-photo-2128807.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" },
+    { "role": "PR Manager", "name": "Ibrahim Hakim", "duty": "Branding & outreach", "image": "public/images/ibrahim.png" }
+  ],
+  "technical": [
+    { "domain": "Web Development", "lead": "Anisa Khan", "scope": "Front-end, Back-end, club website", "image": "https://images.pexels.com/photos/3812729/pexels-photo-3812729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" },
+    { "domain": "AI / ML", "lead": "Zaid Ahmed", "scope": "ML study group, Kaggle teams", "image": "https://images.pexels.com/photos/2169434/pexels-photo-2169434.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" },
+    { "domain": "Competitive Programming & DSA", "lead": "Saira Banu", "scope": "Weekly CP practice, contests", "image": "https://images.pexels.com/photos/3823495/pexels-photo-3823495.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" },
+    { "domain": "Open Source & DevOps", "lead": "Khalid Hassan", "scope": "Git/GitHub, CI/CD, Hacktoberfest", "image": "https://images.pexels.com/photos/2381069/pexels-photo-2381069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" }
+  ]
+}

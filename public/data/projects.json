@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Campus Feedback Web-App",
+    "description": "A MERN stack application that allows students to provide anonymous feedback about campus facilities, courses, and faculty. Features include user authentication, feedback categorization, and administrative dashboard.",
+    "technologies": ["MongoDB", "Express.js", "React", "Node.js", "JWT"],
+    "image": "https://images.pexels.com/photos/6802042/pexels-photo-6802042.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "github": "https://github.com/AITM-Coding-Club/campus-feedback"
+  },
+  {
+    "id": 2,
+    "title": "AI-Powered Chatbot",
+    "description": "An intelligent chatbot built with Python that answers frequently asked questions about the college, admissions, courses, and student life. Integrates with the club website and utilizes natural language processing to provide accurate responses.",
+    "technologies": ["Python", "LLM API", "Natural Language Processing", "JavaScript"],
+    "image": "https://images.pexels.com/photos/8438918/pexels-photo-8438918.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "github": "https://github.com/AITM-Coding-Club/ai-chatbot"
+  },
+  {
+    "id": 3,
+    "title": "Placement Prep Portal",
+    "description": "A comprehensive resource for placement preparation. Features include company-specific interview experiences, coding challenges, aptitude question banks, and resume templates. Built with Next.js for optimal performance.",
+    "technologies": ["Next.js", "Tailwind CSS", "Markdown", "Vercel"],
+    "image": "https://images.pexels.com/photos/5598294/pexels-photo-5598294.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "github": "https://github.com/AITM-Coding-Club/placement-prep"
+  }
+]
